@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Mphil student at the School of Journalism and Communication, The Chinese University of Hong Kong. My research interests focus on journalism with a particular emphasis on citizen journalism, computer-mediated communication, and political communication.
+I am a Mphil student at the School of Journalism and Communication, The Chinese University of Hong Kong. 
 
 My research interests
 ======
