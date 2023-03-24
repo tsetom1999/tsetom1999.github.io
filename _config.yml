@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &tsetom1999
 facebook:
   username               :
   app_id                 :
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Tom Tse"
-  avatar           : 
+  avatar           : "profile.png"
   bio              : "Mphil student at the School of Journalism and Communication, The Chinese University of Hong Kong"
   location         : "Hong Kong"
   employer         :
