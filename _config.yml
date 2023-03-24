@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tom Tse"
+title                    : "Chun Hong Tse"
 title_separator          : "-"
-name                     : &name "Tom Tse"
+name                     : &name "Chun Hong Tse"
 description              : &description "personal description"
 url                      : https://tsetom1999.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
