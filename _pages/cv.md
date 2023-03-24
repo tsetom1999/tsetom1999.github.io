@@ -48,7 +48,7 @@ Teaching
 ======
 * The Hong Kong Academy for Gifted Education
   * HUMS2840 Communication Course (Level 2): Talk Like a TEDx Speaker (Evaluation: 3.4/4.0)
-  * Journalism Course (Level II): Introduction to Citizen Journalism (E2JOU001C) (Evaluation: 3.7/4.0)
+  * E2JOU001C Journalism Course (Level II): Introduction to Citizen Journalism (Evaluation: 3.7/4.0)
 * The Chinese University of Hong Kong
   * COMM 2160 Communication Research Methods (2022-23 Spring)
   * COMM 3193, Film, Television and Hong Kong Culture (2022-23 Fall), Best TA Award (evaluation: 5.4/6.0)  
