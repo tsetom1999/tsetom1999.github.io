@@ -1,15 +1,8 @@
 ---
-title: "Paper Title Number 3"
+title: "Reducing the Use of Disposable Plastics through Public Engagement Campaigns: An Experimental Study of the Effectiveness of Message Appeals, Modalities, and Sources"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'This study examines how different ways of presenting information about the ecological threats stemming from the use of disposable plastics may affect people’s willingness to reduce their use. To test our hypotheses, we used a 2 × 3 × 2 between-subjects experimental design, utilizing a sample of 1001 Hong Kong residents. The independent variables tested included: (a) message frame (gain vs. loss), (b) modality (text vs. image vs. infographic), and (c) information source (government vs. non-governmental organization). The findings demonstrate that the loss frame was more effective than the gain frame in persuading participants to reduce the use of disposable plastics. Furthermore, compared to image-based messages, text-based and infographic-based messages were more effective in promoting the reduction in the use of disposable plastics. For information sources, however, we found no main effect on behavioral intentions. However, this study still suggests an interaction effect of the loss frame and NGO source, as well as the interaction between text-based modality and government source, both leading to more positive outcomes. Furthermore, the study reveals that negative emotional responses mediate the effect of media frames on behavioral intentions. The findings offer useful insights for designing more effective communication campaigns aimed at curbing the use of disposable plastics.'
+date: 2022-07-06
+venue: 'International Journal of Environmental Research and Public Health'
 ---
-This paper is about the number 3. The number 4 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+This study examines how different ways of presenting information about the ecological threats stemming from the use of disposable plastics may affect people’s willingness to reduce their use. To test our hypotheses, we used a 2 × 3 × 2 between-subjects experimental design, utilizing a sample of 1001 Hong Kong residents. The independent variables tested included: (a) message frame (gain vs. loss), (b) modality (text vs. image vs. infographic), and (c) information source (government vs. non-governmental organization). The findings demonstrate that the loss frame was more effective than the gain frame in persuading participants to reduce the use of disposable plastics. Furthermore, compared to image-based messages, text-based and infographic-based messages were more effective in promoting the reduction in the use of disposable plastics. For information sources, however, we found no main effect on behavioral intentions. However, this study still suggests an interaction effect of the loss frame and NGO source, as well as the interaction between text-based modality and government source, both leading to more positive outcomes. Furthermore, the study reveals that negative emotional responses mediate the effect of media frames on behavioral intentions. The findings offer useful insights for designing more effective communication campaigns aimed at curbing the use of disposable plastics.
