@@ -1,15 +1,8 @@
 ---
-title: "Paper Title Number 1"
+title: "How political disagreements undermine intrafamily communication: the case of the anti-extradition bill movement in Hong Kong"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'Cross-cutting communication among people of differing political views is essential because it embeds opportunities for deliberation in everyday life. Prior research indicates that people tend to avoid cross-cutting communication because of the potential for interpersonal conflicts. However, political disagreements can be more comfortably expressed between people with strong ties, such as family members, without concern for damage to the ties. Nevertheless, in societies that have witnessed extreme levels of political polarization, political disagreement can reduce intrafamily communication and make deliberation unlikely. In this study, we analyzed survey data collected during the increased political polarization that followed the Anti-Extradition Bill movement in Hong Kong in 2019. We found that political disagreement within families undermined political discussion, more general communication among family members, and family gatherings during the 2020 Chinese New Year. These findings raise an interesting dilemma, because even though previous research indicates that political disagreement is a precondition for deliberation, our results indicate that this precondition makes deliberation unlikely when a society is politically polarized. They also implied that intrafamily political disagreements can damage bonding social capital by suppressing culturally significant family gatherings.'
+date: 2019-10-19
+venue: 'Chinese Journal of Communication'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Cross-cutting communication among people of differing political views is essential because it embeds opportunities for deliberation in everyday life. Prior research indicates that people tend to avoid cross-cutting communication because of the potential for interpersonal conflicts. However, political disagreements can be more comfortably expressed between people with strong ties, such as family members, without concern for damage to the ties. Nevertheless, in societies that have witnessed extreme levels of political polarization, political disagreement can reduce intrafamily communication and make deliberation unlikely. In this study, we analyzed survey data collected during the increased political polarization that followed the Anti-Extradition Bill movement in Hong Kong in 2019. We found that political disagreement within families undermined political discussion, more general communication among family members, and family gatherings during the 2020 Chinese New Year. These findings raise an interesting dilemma, because even though previous research indicates that political disagreement is a precondition for deliberation, our results indicate that this precondition makes deliberation unlikely when a society is politically polarized. They also implied that intrafamily political disagreements can damage bonding social capital by suppressing culturally significant family gatherings.
