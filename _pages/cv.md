@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,41 +11,37 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BA Media and Communication, City University of Hong Kong, Hong Kong, 2017-2021
+Minor in Japanese Studies	 
+Grade achieved: First Class Honours 
+CGPA: 3.69/4.3
+
+* MSc New Media, The Chinese University of Hong Kong, Hong Kong, 2021-2022
+CGPA: 3.78/4.0
+
+* Mphil Communication, The Chinese University of Hong Kong, Hong Kong, 2022-2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020 - 2021: Research Assistant
+  * City University of Hong Kong
+  * Assist Dr. Marko SKORIC in conducting the research projects “Single-use Plastics Reduction in Hong Kong: Promoting Environmentally Sustainable Behaviors through Public Engagement Campaigns" and “Data Security, Privacy and Innovation Capability in Asia”
+  * Assist Dr. Tetsuro KOBAYASHI in conducting the research project “Testing Cultural Contingencies of Selective Exposure and Polarization: A Cross-National Study in Japan, the U.S., and Hong Kong".
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017 - 2020: Producer and Presenter
+  * Radio Television Hong Kong
+  * (a) producing and presenting high-level Cantonese-language radio / multi-media and other programmes with knowledge of history, news and current affairs;
+  * (b) performing as editors, writers or researchers; generating programme ideas and plans
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* R
+* SPSS
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
@@ -54,6 +50,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Awards
 ======
-* Currently signed in to 43 different slack teams
+* 2022 ICA Journalism Studies Top Student Paper Award
+
