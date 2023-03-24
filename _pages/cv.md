@@ -30,8 +30,8 @@ Work experience
 
 * 2017 - 2020: Producer and Presenter
   * Radio Television Hong Kong
-  * (a) producing and presenting high-level Cantonese-language radio / multi-media and other programmes with knowledge of history, news and current affairs;
-  * (b) performing as editors, writers or researchers; generating programme ideas and plans
+  * Producing and presenting high-level Cantonese-language radio / multi-media and other programmes with knowledge of history, news and current affairs;
+  * Performing as editors, writers or researchers; generating programme ideas and plans
   
 Skills
 ======
