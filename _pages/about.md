@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Mphil student at the School of Journalism and Communication, The Chinese University of Hong Kong.
+Hi, I am Tom! You can also call me Chun Hong! I am a Mphil student at the School of Journalism and Communication, The Chinese University of Hong Kong.
 
 My research interests
 ======
