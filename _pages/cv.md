@@ -13,7 +13,6 @@ Education
 ======
 * BA Media and Communication, City University of Hong Kong, Hong Kong, 2017-2021
 Minor in Japanese Studies	 
-Grade achieved: First Class Honours 
 CGPA: 3.69/4.3
 
 * MSc New Media, The Chinese University of Hong Kong, Hong Kong, 2021-2022
@@ -37,8 +36,8 @@ Teaching
   * HUMS2840 Communication Course (Level 2): Talk Like a TEDx Speaker (Teaching evaluation: 3.4/4.0)
   * E2JOU001C Journalism Course (Level II): Introduction to Citizen Journalism (Teaching evaluation: 3.76/4.0)
 * The Chinese University of Hong Kong
-  * COMM 2160 Communication Research Methods (2022-23 Spring)
-  * COMM 3193/ UGEC3635, Film, Television and Hong Kong Culture (2022-23 Fall), Best TA Award (Teaching evaluation: 5.4/6.0)  
+  * COMM2160 Communication Research Methods (2022-23 Spring)
+  * COMM3193/ UGEC3635, Film, Television and Hong Kong Culture (2022-23 Fall), Best TA Award (Teaching evaluation: 5.4/6.0)  
 
 Skills
 ======
