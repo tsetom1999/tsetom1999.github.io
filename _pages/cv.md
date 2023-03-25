@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-* Email: tom.tsech AT my.cityu.edu.hk
-* Email: tom.tsech AT link.cuhk.edu.hk
+* Email: chtse26-c AT my.cityu.edu.hk
+* Email: 1155163595 AT link.cuhk.edu.hk
 
 Education
 ======
