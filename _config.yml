@@ -11,9 +11,9 @@ title                    : "Chun Hong Tse / Homepage"
 title_separator          : "-"
 name                     : &name "Chun Hong Tse"
 description              : &description "personal description"
-url                      : https://tsetom1999.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tsetom1999.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tsetom1999.github.io"
+repository               : "tsetom1999.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
