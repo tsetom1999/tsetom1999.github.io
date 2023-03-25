@@ -21,6 +21,30 @@ CGPA: 3.78/4.0
 
 * Mphil Communication, The Chinese University of Hong Kong, Hong Kong, 2022-2024 (expected)
 
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Awards
+======
+* 2022 ICA Journalism Studies Top Student Paper Award
+ 
+Teaching
+======
+* The Hong Kong Academy for Gifted Education
+  * HUMS2840 Communication Course (Level 2): Talk Like a TEDx Speaker (Teaching evaluation: 3.4/4.0)
+  * E2JOU001C Journalism Course (Level II): Introduction to Citizen Journalism (Teaching evaluation: 3.76/4.0)
+* The Chinese University of Hong Kong
+  * COMM 2160 Communication Research Methods (2022-23 Spring)
+  * COMM 3193/ UGEC3635, Film, Television and Hong Kong Culture (2022-23 Fall), Best TA Award (Teaching evaluation: 5.4/6.0)  
+
+Skills
+======
+* R
+* SPSS
+
 Work experience
 ======
 * 2020 - 2021: Research Assistant
@@ -32,29 +56,4 @@ Work experience
   * Radio Television Hong Kong
   * Producing and presenting high-level Cantonese-language radio / multi-media and other programmes with knowledge of history, news and current affairs;
   * Performing as editors, writers or researchers; generating programme ideas and plans
-  
-Skills
-======
-* R
-* SPSS
-
-  
-Teaching
-======
-* The Hong Kong Academy for Gifted Education
-  * HUMS2840 Communication Course (Level 2): Talk Like a TEDx Speaker (Teaching evaluation: 3.4/4.0)
-  * E2JOU001C Journalism Course (Level II): Introduction to Citizen Journalism (Teaching evaluation: 3.76/4.0)
-* The Chinese University of Hong Kong
-  * COMM 2160 Communication Research Methods (2022-23 Spring)
-  * COMM 3193/ UGEC3635, Film, Television and Hong Kong Culture (2022-23 Fall), Best TA Award (Teaching evaluation: 5.4/6.0)  
-  
-Awards
-======
-* 2022 ICA Journalism Studies Top Student Paper Award
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
+ 
