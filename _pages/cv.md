@@ -56,4 +56,3 @@ Teaching
 Awards
 ======
 * 2022 ICA Journalism Studies Top Student Paper Award
-
