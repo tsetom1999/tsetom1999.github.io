@@ -11,14 +11,15 @@ redirect_from:
 
 Education
 ======
-* BA Media and Communication, City University of Hong Kong, Hong Kong, 2017-2021
-Minor in Japanese Studies	 
-CGPA: 3.69/4.3
-
-* MSc New Media, The Chinese University of Hong Kong, Hong Kong, 2021-2022
-CGPA: 3.78/4.0
 
 * Mphil Communication, The Chinese University of Hong Kong, Hong Kong, 2022-2024 (expected)
+
+* MSc New Media, The Chinese University of Hong Kong, Hong Kong, 2021-2022
+  * CGPA: 3.78/4.0
+
+* BA Media and Communication, City University of Hong Kong, Hong Kong, 2017-2021
+  * Minor in Japanese Studies	 
+  * CGPA: 3.69/4.3
 
 Publications
 ======
@@ -28,17 +29,18 @@ Publications
   
 Awards
 ======
+* 2022/23 Fall Semester CUHK School of Journalism and Communication Best Teaching Assistant Award
 * 2022 ICA Journalism Studies Top Student Paper Award
  
 Teaching
 ======
-* The Hong Kong Academy for Gifted Education
+* The Chinese University of Hong Kong (Teaching Assistant & Tutor)
+  * COMM2160 Communication Research Methods (2022-23 Spring)
+  * COMM3193/ UGEC3635, Film, Television and Hong Kong Culture (2022-23 Fall), Best TA Award (Teaching evaluation: 5.6/6.0) 
+* The Hong Kong Academy for Gifted Education (Instructor)
   * HUMS2840 Communication Course (Level 2): Talk Like a TEDx Speaker (Teaching evaluation: 3.4/4.0)
   * E2JOU001C Journalism Course (Level II): Introduction to Citizen Journalism (Teaching evaluation: 3.53/4.0)
-* The Chinese University of Hong Kong
-  * COMM2160 Communication Research Methods (2022-23 Spring)
-  * COMM3193/ UGEC3635, Film, Television and Hong Kong Culture (2022-23 Fall), Best TA Award (Teaching evaluation: 5.6/6.0)  
-
+ 
 Skills
 ======
 * R
