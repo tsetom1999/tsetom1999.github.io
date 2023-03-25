@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Contact"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+* Email: tom.tsech AT my.cityu.edu.hk
+* Email: tom.tsech AT link.cuhk.edu.hk
 
 Education
 ======
