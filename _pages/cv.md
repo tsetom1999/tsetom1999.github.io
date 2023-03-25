@@ -48,11 +48,11 @@ Work experience
 ======
 * 2020 - 2021: Research Assistant
   * City University of Hong Kong
-  * Assist Dr. Marko SKORIC in conducting the research projects “Single-use Plastics Reduction in Hong Kong: Promoting Environmentally Sustainable Behaviors through Public Engagement Campaigns" and “Data Security, Privacy and Innovation Capability in Asia”；
-  * Assist Dr. Tetsuro KOBAYASHI in conducting the research project “Testing Cultural Contingencies of Selective Exposure and Polarization: A Cross-National Study in Japan, the U.S., and Hong Kong".
+  * Assist Dr. Marko SKORIC in conducting the research projects “Single-use Plastics Reduction in Hong Kong: Promoting Environmentally Sustainable Behaviors through Public Engagement Campaigns" and “Data Security, Privacy and Innovation Capability in Asia”
+  * Assist Dr. Tetsuro KOBAYASHI in conducting the research project “Testing Cultural Contingencies of Selective Exposure and Polarization: A Cross-National Study in Japan, the U.S., and Hong Kong"
 
 * 2017 - 2020: Producer and Presenter
   * Radio Television Hong Kong
-  * Producing and presenting high-level Cantonese-language radio/ multi-media and other programmes with knowledge of history, news and current affairs;
+  * Producing and presenting high-level Cantonese-language radio/ multi-media and other programmes with knowledge of history, news and current affairs
   * Performing as editors, writers or researchers; generating programme ideas and plans
  
