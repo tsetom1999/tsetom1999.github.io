@@ -37,7 +37,7 @@ Teaching
   * E2JOU001C Journalism Course (Level II): Introduction to Citizen Journalism (Teaching evaluation: 3.76/4.0)
 * The Chinese University of Hong Kong
   * COMM2160 Communication Research Methods (2022-23 Spring)
-  * COMM3193/ UGEC3635, Film, Television and Hong Kong Culture (2022-23 Fall), Best TA Award (Teaching evaluation: 5.4/6.0)  
+  * COMM3193/ UGEC3635, Film, Television and Hong Kong Culture (2022-23 Fall), Best TA Award (Teaching evaluation: 5.6/6.0)  
 
 Skills
 ======
