@@ -38,11 +38,6 @@ Skills
 * R
 * SPSS
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Teaching
 ======
@@ -56,3 +51,10 @@ Teaching
 Awards
 ======
 * 2022 ICA Journalism Studies Top Student Paper Award
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
