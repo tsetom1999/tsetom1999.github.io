@@ -41,7 +41,7 @@ Teaching
   * COMM2160 Communication Research Methods (2022-23 Spring)
   * COMM3193/ UGEC3635, Film, Television and Hong Kong Culture (2022-23 Fall), Best TA Award (Teaching evaluation: 5.6/6.0) 
 * The Hong Kong Academy for Gifted Education (Instructor)
-  * HUMS2840 Communication Course (Level 2): Talk Like a TEDx Speaker (Teaching evaluation: 3.4/4.0)
+  * HUMS2840 Communication Course (Level II): Talk Like a TEDx Speaker (Teaching evaluation: 3.4/4.0)
   * E2JOU001C Journalism Course (Level II): Introduction to Citizen Journalism (Teaching evaluation: 3.53/4.0)
  
 Skills
