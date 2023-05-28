@@ -34,6 +34,7 @@ Awards
 ======
 * 2022/23 Fall Semester CUHK School of Journalism and Communication Best Teaching Assistant Award
 * 2022 ICA Journalism Studies Top Student Paper Award
+* 2023 ICA 2nd place Top Poster Award
  
 Teaching
 ======
