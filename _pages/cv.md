@@ -39,7 +39,7 @@ Awards
 Teaching
 ======
 * The Chinese University of Hong Kong (Teaching Assistant & Tutor)
-  * COMM2160 Communication Research Methods (2022-23 Spring)
+  * COMM2160 Communication Research Methods (2022-23 Spring) (Teaching evaluation: 5.35/6.0) 
   * COMM3193/ UGEC3635, Film, Television and Hong Kong Culture (2022-23 Fall), Best TA Award (Teaching evaluation: 5.6/6.0) 
 * The Hong Kong Academy for Gifted Education (Instructor)
   * HUMS2840 Communication Course (Level II): Talk Like a TEDx Speaker (Teaching evaluation: 3.4/4.0)
