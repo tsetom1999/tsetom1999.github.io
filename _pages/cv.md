@@ -14,6 +14,7 @@ redirect_from:
 Education
 ======
 * PhD Mass Communications, University of Wisconsin–Madison, United States, 2024-current
+  * CGPA: 4.0/4.0
 
 * Mphil Communication, The Chinese University of Hong Kong, Hong Kong, 2022-2024
   * CGPA: 3.87/4.0
