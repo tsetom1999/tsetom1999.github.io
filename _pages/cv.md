@@ -40,6 +40,8 @@ Awards
  
 Teaching
 ======
+* University of Wisconsin–Madison (Teaching Assistant & Tutor)
+  * JOURN202 Mass Communication Practices (2024-25 Fall; 2024-25 Spring)
 * The Chinese University of Hong Kong (Teaching Assistant & Tutor)
   * COMM2160 Communication Research Methods (2022-23 Spring; 2023-24 Spring)
   * COMM3193/ UGEC3635, Film, Television and Hong Kong Culture (2022-23 Fall; 2023-24 Fall)
