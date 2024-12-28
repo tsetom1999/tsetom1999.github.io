@@ -20,11 +20,6 @@ The Chinese University of Hong Kong (Teaching Assistant & Tutor)
 * COMM3193/ UGEC3635, Film, Television and Hong Kong Culture (2022-23 Fall; 2023-24 Fall)
   * This is a course on the ‘rise’ and ‘fall’ and the ‘re-emergence’ of Hong Kong culture. It focuses on the role of television and film in cultural formation and maintenance. Various movie and television texts will serve as the basis of discussion on the prominent features of Hong Kong culture. Lectures will be conducted in a problem-based approach, while tutorial, presentation, analytical writing, screening, critical thinking, and group discussion will be the core activities of the course.
 
-City University of Hong Kong (Teaching Assistant)
-======
-* COM3117 Media, Communication and Public Opinion
-  * This seminar aims to describe, evaluate, and critique the literature on the role of mass media in public opinion formation and change. By the end of the semester, the students are expected to demonstrate the ability to evaluate research concepts and perspectives, and furthermore apply them to actual research projects.
-
 The Hong Kong Academy for Gifted Education (Instructor)
 ======
 * E2JOU001C Journalism Course (Level II): Introduction to Citizen Journalism
