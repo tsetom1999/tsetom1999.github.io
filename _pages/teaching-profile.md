@@ -1,12 +1,14 @@
 ---
 permalink: /teaching-profile/
-title: "Teaching Profile"
-excerpt: "Teaching Profile"
+title: "Teaching"
+excerpt: "Teaching"
 author_profile: true
 redirect_from: 
   - "/tp/"
   - "/tp.html"
 ---
+
+At the University of Wisconsin–Madison, I currently teach courses in news writing. Previously at the Chinese University of Hong Kong, I taught courses on research methods and film, television, and Hong Kong culture.
 
 University of Wisconsin–Madison (Teaching Assistant & Tutor)
 ======
