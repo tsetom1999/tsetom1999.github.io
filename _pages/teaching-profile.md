@@ -8,9 +8,6 @@ redirect_from:
   - "/tp.html"
 ---
 
-Teaching
-======
- 
 University of Wisconsin–Madison (Teaching Assistant & Tutor)
 ======
 * JOURN202 Mass Communication Practices (2024-25 Fall; 2024-25 Spring)
