@@ -3,8 +3,11 @@ main:
   - title: "Publications"
     url: /publications/  
     
-  - title: "Teaching and Radio Experiences"
+  - title: "Teaching"
     url: /tp/    
-    
+
+  - title: "Radio"
+    url: /radio-experience/
+
   - title: "CV"
     url: /cv/
