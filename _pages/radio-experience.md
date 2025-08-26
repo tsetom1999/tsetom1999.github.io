@@ -1,7 +1,7 @@
 ---
 permalink: /radio-experience/
-title: "Radio Experiences"
-excerpt: "Radio Experiences"
+title: "Radio"
+excerpt: "Radio"
 author_profile: true
 redirect_from: 
   - "/radio/"
