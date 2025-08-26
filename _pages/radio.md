@@ -1,5 +1,5 @@
 ---
-permalink: /radio/
+permalink: /radio-experience/
 title: "Radio"
 excerpt: "Radio"
 author_profile: true
