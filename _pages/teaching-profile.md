@@ -61,3 +61,9 @@ Besides teaching, I was a radio host before starting my master's degree. This pa
 ======
 * 主持人：何駿傑、謝振康
   * 節目介紹由一眾西環街坊所成立的體育會，帶領聽眾認識區內的行山路線、泳棚及其他體育設施。
+
+小島作客 Discover Islands in Hong Kong
+======
+* 主持人：何駿傑、謝振康、潘嘉慧、李樂茵、潘芷晴
+  * 節目選出十三個香港島嶼作介紹，邀請島民、老師及學者分享各島的獨有文化。從生活、口述歷史、地理和文化保育多方面探索。作客小島，細聽別人故事，尋找逐漸失去的情懷。
+  
