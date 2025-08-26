@@ -64,5 +64,5 @@ Work experience
   * Assist Dr. Tetsuro KOBAYASHI in conducting the research project “Testing Cultural Contingencies of Selective Exposure and Polarization: A Cross-National Study in Japan, the U.S., and Hong Kong"
 
 * 2017 - 2020: Producer and Presenter
-  * See the "Radio" page for more
+  * See the "Teaching and Radio Experiences" page for more
  
