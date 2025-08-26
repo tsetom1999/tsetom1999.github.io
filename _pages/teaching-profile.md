@@ -30,7 +30,7 @@ The Hong Kong Academy for Gifted Education (Instructor)
   * An inspiring and influential speech always has a lot more to do with knowledge. People will follow you if they are deeply moved by your words. TED and TEDx talks are delivering influential messages to the world through various channels. In this program, an experienced TEDx speaker will guide you to master an influencing and inspiring TED talk. Act now, join us, make yourself a better speaker.
 
 
-This page lists my experiences as a radio presenter and producer of seven programmes on Radio Television Hong Kong (RTHK). In total, I have hosted 91 episodes broadcast on the RTHK Putonghua Channel and RTHK Radio 5. All of these programmes were funded by the Community Involvement Broadcasting Service (CIBS). Below are the synopses of each programme.
+Besides teaching, I was a radio host before starting my master's degree. This page lists my experiences as a radio presenter and producer of seven programmes on Radio Television Hong Kong (RTHK). In total, I have hosted 91 episodes broadcast on the RTHK Putonghua Channel and RTHK Radio 5. All of these programmes were funded by the Community Involvement Broadcasting Service (CIBS). Below are the synopses of each programme.
 
 維城食志 Eating in Victoria City
 ======
