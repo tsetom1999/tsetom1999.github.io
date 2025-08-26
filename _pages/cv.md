@@ -64,8 +64,5 @@ Work experience
   * Assist Dr. Tetsuro KOBAYASHI in conducting the research project “Testing Cultural Contingencies of Selective Exposure and Polarization: A Cross-National Study in Japan, the U.S., and Hong Kong"
 
 * 2017 - 2020: Producer and Presenter
-  * Radio Television Hong Kong
-  * Produce and present high-level Cantonese-language radio/ multi-media and other programmes with knowledge of history, news and current affairs
-  * Perform as editors, writers or researchers
-  * Generate programme ideas and plans
+  * see "Radio" page for more
  
