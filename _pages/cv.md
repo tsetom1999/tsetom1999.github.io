@@ -51,19 +51,3 @@ Teaching
   * HUMS2840 Communication Course (Level II): Talk Like a TEDx Speaker
   * E2JOU001C Journalism Course (Level II): Introduction to Citizen Journalism
  
-Skills
-======
-* R
-* SPSS
-
-Work experience
-======
-* 2020 - 2021: Research Assistant
-  * City University of Hong Kong
-  * Assist Dr. Marko SKORIC in conducting the research projects “Single-use Plastics Reduction in Hong Kong: Promoting Environmentally Sustainable Behaviors through Public Engagement Campaigns" and “Data Security, Privacy and Innovation Capability in Asia”
-  * Assist Dr. Tetsuro KOBAYASHI in conducting the research project “Testing Cultural Contingencies of Selective Exposure and Polarization: A Cross-National Study in Japan, the U.S., and Hong Kong"
-
-* 2017 - 2020: Producer and Presenter
-  * Radio Television Hong Kong
-  * See the "Radio" page for more
- 
