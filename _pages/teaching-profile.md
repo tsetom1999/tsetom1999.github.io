@@ -12,7 +12,7 @@ At the University of Wisconsin–Madison, I currently teach courses in news writ
 
 University of Wisconsin–Madison (Teaching Assistant & Tutor)
 ======
-* JOURN202 Mass Communication Practices (2024-25 Fall; 2024-25 Spring; 2025-26 Fall)
+* JOURN202 Mass Communication Practices (2024 Fall; 2025 Spring; 2025 Fall; 2026 Spring)
   * Build increasingly sophisticated communication skills, including writing, editing, gathering information, working with data, and presenting stories through varying media forms. Develop an appreciation of how different media influence message design by communicators and reception by audiences. Develop a complex toolkit of conceptual and practical skills for media work in journalism, strategic communication, and hybrids. Build writing skills and critical thinking abilities, two elements common to success in any field.
 
 The Chinese University of Hong Kong (Teaching Assistant & Tutor)
