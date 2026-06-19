@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Tom! You can also call me Chun Hong! I am a PhD student at the School of Journalism and Mass Communication, University of Wisconsin–Madison.
+Hi I am Tom! You can also call me Chun Hong! I am a PhD student at the School of Journalism and Mass Communication, University of Wisconsin–Madison.
 
 My research interests
 ======
