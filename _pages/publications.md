@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <u><a href="https://www.researchgate.net/profile/Chun-Hong-Tse">my Research Gate profile</a>.</u>
+You can also find my published articles on <u><a href="https://www.researchgate.net/profile/Chun-Hong-Tse">my Research Gate profile</a>.</u>
 
 {% include base_path %}
 
