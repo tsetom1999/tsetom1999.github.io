@@ -27,7 +27,7 @@ Education
   * Minor in Japanese Studies	 
   * CGPA: 3.69/4.3
 
-Publications
+Selected Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
