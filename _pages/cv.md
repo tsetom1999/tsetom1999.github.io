@@ -43,6 +43,7 @@ Awards
 Teaching
 ======
 * University of Wisconsin–Madison (Teaching Assistant & Tutor)
+  * JOURN201 Introduction to Mass Communication (2026 Fall)
   * JOURN202 Mass Communication Practices (2024 Fall; 2025 Spring; 2025 Fall; 2026 Spring)
 * The Chinese University of Hong Kong (Teaching Assistant & Tutor)
   * COMM2160 Communication Research Methods (2022-23 Spring; 2023-24 Spring)
